@@ -1,6 +1,6 @@
 # AlexNet_
 
-代码有问题!!!
+
 
 
 ![qijiaqiao](https://github.com/DemonQiJQ/AlexNet_/blob/master/alexnet_stucture.png)
